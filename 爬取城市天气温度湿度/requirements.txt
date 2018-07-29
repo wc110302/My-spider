@@ -1,0 +1,8 @@
+certifi==2018.4.16
+chardet==3.0.4
+idna==2.7
+PyExecJS==1.5.1
+pymongo==3.7.1
+requests==2.19.1
+six==1.11.0
+urllib3==1.23
