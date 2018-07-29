@@ -24,5 +24,6 @@ Spider  of learning--by xzh
 11. [爬取老司机网站](https://github.com/wc110302/My-spider/tree/master/%E7%88%AC%E5%8F%96%E8%80%81%E5%8F%B8%E6%9C%BA%E7%BD%91%E7%AB%99)
 
 12. [破解百度翻译接口API](https://github.com/wc110302/My-spider/tree/master/%E7%A0%B4%E8%A7%A3%E7%99%BE%E5%BA%A6%E7%BF%BB%E8%AF%91%E6%8E%A5%E5%8F%A3API)
+13. [爬取顶点小说网指定小说](https://github.com/wc110302/My-spider/tree/master/%E7%88%AC%E5%8F%96%E9%A1%B6%E7%82%B9%E5%B0%8F%E8%AF%B4%E7%BD%91%E6%8C%87%E5%AE%9A%E5%B0%8F%E8%AF%B4)
 
 ## 持续更新ing
