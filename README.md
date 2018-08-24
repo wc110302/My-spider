@@ -29,5 +29,5 @@ Spider  of learning--by xzh
 
 15. [爬取飞常准航班信息](https://github.com/wc110302/My-spider/blob/master/%E7%88%AC%E5%8F%96%E9%A3%9E%E5%B8%B8%E5%87%86%E8%88%AA%E7%8F%AD%E4%BF%A1%E6%81%AF/feichangzhun.py)
 
-16. [破解distil-networks语音验证码](https://github.com/wc110302/My-spider/tree/master/%E7%A0%B4%E8%A7%A3distil%E8%AF%AD%E9%9F%B3%E9%AA%8C%E8%AF%81%E7%A0%81)
+16. [破解distil-networks语音验证码](https://github.com/wc110302/My-spider/tree/master/%E7%A0%B4%E8%A7%A3distil-networks%E8%AF%AD%E9%9F%B3%E9%AA%8C%E8%AF%81%E7%A0%81)
 ## 持续更新ing
