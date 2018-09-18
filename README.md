@@ -32,6 +32,6 @@ Spider  of learning--by xzh
 16. [破解distil-networks语音验证码](https://github.com/wc110302/My-spider/tree/master/%E7%A0%B4%E8%A7%A3distil-networks%E8%AF%AD%E9%9F%B3%E9%AA%8C%E8%AF%81%E7%A0%81)
 
 
-17. [PHICOMM自动注册与查询](https://github.com/wc110302/My-spider/tree/master/PHICOMM%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%86%8C%E4%B8%8E%E6%9F%A5%E8%AF%A2://note.youdao.com/)
+17. [PHICOMM自动注册与查询](https://github.com/wc110302/My-spider/tree/master/PHICOMM%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%86%8C%E4%B8%8E%E6%9F%A5%E8%AF%A2)
 
 ## 持续更新ing
