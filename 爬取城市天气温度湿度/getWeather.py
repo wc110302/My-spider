@@ -3,7 +3,7 @@ import requests
 import execjs
 
 from json import loads
-from pymongo import MongoClient
+# from pymongo import MongoClient
 
 # mongodb配置路径
 MONGO_URL = 'mongodb://username:password@localhost:port'
