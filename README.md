@@ -37,7 +37,7 @@ Spider  of learning--by xzh
 18. [PHICOMM自动注册与查询](https://github.com/wc110302/My-spider/tree/master/PHICOMM%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%86%8C%E4%B8%8E%E6%9F%A5%E8%AF%A2)
 
 19. [模拟淘宝登陆+爬取卖家信息](https://github.com/wc110302/My-spider/tree/master/%E6%A8%A1%E6%8B%9F%E6%B7%98%E5%AE%9D%E7%99%BB%E9%99%86%2B%E7%88%AC%E5%8F%96%E5%8D%96%E5%AE%B6%E4%BF%A1%E6%81%AF)
-20. [抓取千图网分类素材](https://github.com/wc110302/My-spider/tree/master/%E6%8A%93%E5%8F%96%E5%8D%83%E5%9B%BE%E7%BD%91%E5%88%86%E7%B1%BB%E7%B4%A0%E6%9D%90)
+20. [抓取千库网分类素材](https://github.com/wc110302/My-spider/tree/master/%E6%8A%93%E5%8F%96%E5%8D%83%E5%9B%BE%E7%BD%91%E5%88%86%E7%B1%BB%E7%B4%A0%E6%9D%90)
 
 
 ## 持续更新ing
