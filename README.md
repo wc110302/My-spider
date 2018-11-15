@@ -40,6 +40,8 @@ Spider  of learning--by xzh
 20. [抓取千库网分类素材](https://github.com/wc110302/My-spider/tree/master/%E6%8A%93%E5%8F%96%E5%8D%83%E5%BA%93%E7%BD%91%E5%88%86%E7%B1%BB%E7%B4%A0%E6%9D%90)
 21. [抓取一卡通世界企业信息(csv格式保存)](https://github.com/wc110302/My-spider/tree/master/%E7%88%AC%E5%8F%96%E4%B8%80%E5%8D%A1%E9%80%9A%E4%B8%96%E7%95%8C%E6%89%80%E6%9C%89%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF(csv%E6%A0%BC%E5%BC%8F%E4%BF%9D%E5%AD%98))
 
+22. [爬取指定城市空气质量检测数据](https://github.com/wc110302/My-spider/tree/master/%E7%88%AC%E5%8F%96%E6%8C%87%E5%AE%9A%E5%9F%8E%E5%B8%82%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F%E6%A3%80%E6%B5%8B%E6%95%B0%E6%8D%AE)
+
 # [CSDN博客传送门](https://blog.csdn.net/qq_39802740)
 
 ## 持续更新ing （欢迎各种star与fork）
