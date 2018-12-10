@@ -42,6 +42,8 @@ Spider  of learning--by xzh
 
 22. [爬取指定城市空气质量检测数据](https://github.com/wc110302/My-spider/tree/master/%E7%88%AC%E5%8F%96%E6%8C%87%E5%AE%9A%E5%9F%8E%E5%B8%82%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F%E6%A3%80%E6%B5%8B%E6%95%B0%E6%8D%AE)
 
+23. [抓取百度文库1000W数据](https://github.com/wc110302/My-spider/tree/master/抓取百度文库1000W数据)
+
 # [CSDN博客传送门](https://blog.csdn.net/qq_39802740)
 
 ## 持续更新ing （欢迎各种star与fork）
