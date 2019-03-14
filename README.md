@@ -44,6 +44,8 @@ Spider  of learning--by xzh
 
 23. [抓取百度文库1000W数据](https://github.com/wc110302/My-spider/tree/master/抓取百度文库1000W数据)
 
+24. [icgoo电子元件网js加密破解分析](https://github.com/wc110302/My-spider/tree/master/icgoo电子元件网js加密破解分析)
+
 # [CSDN博客传送门](https://blog.csdn.net/qq_39802740)
 
 ## 持续更新ing （欢迎各种star与fork）
