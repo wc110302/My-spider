@@ -46,6 +46,7 @@ Spider  of learning--by xzh
 
 24. [icgoo电子元件网js加密破解分析](https://github.com/wc110302/My-spider/tree/master/icgoo电子元件网js加密破解分析)
 
+25. [58同城·招聘联系电话js解密](https://github.com/wc110302/My-spider/tree/master/58同城·招聘联系电话js解密)
 # [CSDN博客传送门](https://blog.csdn.net/qq_39802740)
 
 ## 持续更新ing （欢迎各种star与fork）
