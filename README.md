@@ -49,6 +49,9 @@ Spider  of learning--by xzh
 25. [58同城·招聘联系电话js解密](https://github.com/wc110302/My-spider/tree/master/58同城·招聘联系电话js解密)
 
 26. [爬取有效机构查询网(CNAS)全量数据](https://github.com/wc110302/My-spider/tree/master/爬取有效机构查询网(CNAS)全量数据)
+
+27. [一键转换爬虫请求头headers](https://github.com/wc110302/My-spider/tree/master/%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2%E7%88%AC%E8%99%AB%E8%AF%B7%E6%B1%82%E5%A4%B4headers)
+
 # [CSDN博客传送门](https://blog.csdn.net/qq_39802740)
 
 ## 持续更新ing （欢迎各种star与fork）
