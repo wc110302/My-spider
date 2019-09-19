@@ -53,6 +53,8 @@ Spider  of learning--by xzh
 27. [一键转换爬虫请求头headers](https://github.com/wc110302/My-spider/tree/master/%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2%E7%88%AC%E8%99%AB%E8%AF%B7%E6%B1%82%E5%A4%B4headers)
 
 28. [cnzz网站统计(umuuid参数加密破解)](https://github.com/wc110302/My-spider/tree/master/cnzz%E7%BD%91%E7%AB%99%E7%BB%9F%E8%AE%A1(umuuid%E5%8F%82%E6%95%B0%E5%8A%A0%E5%AF%86%E7%A0%B4%E8%A7%A3))
+
+29. [破解citeab计算型验证码](https://github.com/wc110302/My-spider/tree/master/%E7%A0%B4%E8%A7%A3citeab%E8%AE%A1%E7%AE%97%E5%9E%8B%E9%AA%8C%E8%AF%81%E7%A0%81)
 # [CSDN博客传送门](https://blog.csdn.net/qq_39802740)
 
 ## 持续更新ing （欢迎各种star与fork）
