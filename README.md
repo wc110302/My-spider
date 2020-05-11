@@ -54,8 +54,8 @@ Spider  of learning--by xzh
 
 28. [cnzz网站统计(umuuid参数加密破解)](https://github.com/wc110302/My-spider/tree/master/cnzz%E7%BD%91%E7%AB%99%E7%BB%9F%E8%AE%A1(umuuid%E5%8F%82%E6%95%B0%E5%8A%A0%E5%AF%86%E7%A0%B4%E8%A7%A3))
 
-29. [今日头条_signature参数](https://github.com/wc110302/My-spider/tree/master/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1_signature%E5%8F%82%E6%95%B0)
+29. [今日头条(_signature参数)](https://github.com/wc110302/My-spider/tree/master/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1_signature%E5%8F%82%E6%95%B0)
 
-30. [今日头条__ac_signature参数)](https://github.com/wc110302/My-spider/tree/master/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1__ac_signature%E5%8F%82%E6%95%B0)
+30. [今日头条(__ac_signature参数)](https://github.com/wc110302/My-spider/tree/master/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1__ac_signature%E5%8F%82%E6%95%B0)
 # [CSDN博客传送门](https://blog.csdn.net/qq_39802740)
 ## 持续更新ing （欢迎各种star与fork）
