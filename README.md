@@ -56,6 +56,6 @@ Spider  of learning--by xzh
 
 29. [今日头条_signature参数](https://github.com/wc110302/My-spider/tree/master/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1_signature%E5%8F%82%E6%95%B0)
 
-30. [今日头条__ac_signature参数)](https://github.com/wc110302/My-spider/tree/master/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1__ac_signature%E5%8F%82%E6%95%B0))
+30. [今日头条__ac_signature参数)](https://github.com/wc110302/My-spider/tree/master/%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1__ac_signature%E5%8F%82%E6%95%B0)
 # [CSDN博客传送门](https://blog.csdn.net/qq_39802740)
 ## 持续更新ing （欢迎各种star与fork）
